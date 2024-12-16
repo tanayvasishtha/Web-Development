@@ -1,0 +1,34 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+
+.color-title {
+    font-weight: normal;
+}
+
+
+
+/* 
+ * This CSS rule targets all <img> elements and sets their height and width to 200px.
+ * This ensures that all images on the webpage will have a uniform size of 200x200 pixels.*/
+img {
+    height: 200px;
+    width: 200px;
+}
